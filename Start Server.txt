@@ -1,0 +1,1 @@
+cd build-a-bot-server => npm start (at localhost:8081)
